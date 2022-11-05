@@ -1,0 +1,8 @@
+C:\Users\303\Documents\GitHub\HalilPazarlamaV2\HalilPazarlamav2\bin\Debug\HalilPazarlamav2.exe.config
+C:\Users\303\Documents\GitHub\HalilPazarlamaV2\HalilPazarlamav2\bin\Debug\HalilPazarlamav2.exe
+C:\Users\303\Documents\GitHub\HalilPazarlamaV2\HalilPazarlamav2\bin\Debug\HalilPazarlamav2.pdb
+C:\Users\303\Documents\GitHub\HalilPazarlamaV2\HalilPazarlamav2\obj\Debug\HalilPazarlamav2.csproj.AssemblyReference.cache
+C:\Users\303\Documents\GitHub\HalilPazarlamaV2\HalilPazarlamav2\obj\Debug\HalilPazarlamav2.csproj.SuggestedBindingRedirects.cache
+C:\Users\303\Documents\GitHub\HalilPazarlamaV2\HalilPazarlamav2\obj\Debug\HalilPazarlamav2.csproj.CoreCompileInputs.cache
+C:\Users\303\Documents\GitHub\HalilPazarlamaV2\HalilPazarlamav2\obj\Debug\HalilPazarlamav2.exe
+C:\Users\303\Documents\GitHub\HalilPazarlamaV2\HalilPazarlamav2\obj\Debug\HalilPazarlamav2.pdb
